@@ -1,3 +1,2 @@
-print say_hello
-puts "say hello" 
+"say hello" 
  # Build your say_hello method here
